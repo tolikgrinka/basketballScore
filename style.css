@@ -1,0 +1,53 @@
+body{
+    display: flex;
+    margin: 0;
+    background: #E5E5E5;
+    justify-content: space-around;
+}
+img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0.89;
+}
+.sec1, .sec2{
+    position: relative;
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto ;
+}
+h1{
+    position: relative;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    text-align: center;
+    margin-top:-60px;
+    color:#EEEEEE;;
+}
+.btn{
+    position: relative;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 400;
+    width: 70px;
+}
+p{
+    font-size: 40px;
+    color: red;
+    margin-top: 110px;
+    margin-left: 110px;
+}
+button{
+width: 45px;
+height: 45px;
+font-size: 18px;
+line-height: 28px;
+text-align: center;
+border: 2px solid #9AABD8;
+border-radius: 5px;
+margin-top:100px;
+margin-left: 7px;
+color: #9AABD8;
+}
